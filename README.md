@@ -1,4 +1,4 @@
-# xkcd Project 1
+# Project 1
 
 ## Live URL
 <http://p1.durgavelukumar.me>
