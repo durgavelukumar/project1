@@ -38,7 +38,7 @@ p.wr{
 
   <h2 style="text-align:center">Why are you taking this course?</h2>
 
-  <p class="wr">Dynamic web applications is relevant in almost all, if not all, parts of IT. Also, everything these days is going mobile. I intend to learn application development for the mobile platform 
+  <p class="wr">Dynamic web applications is relevant in almost all, if not all, parts of IT. Also, everything these days is going online. I intend to learn application development for the mobile platform 
 in the near future.</p>
 
   <h2 style="text-align:center">What previous experience do you have with programming?</h2>
