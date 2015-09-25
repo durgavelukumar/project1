@@ -53,7 +53,7 @@ in the near future.</p>
 
   <p class="wr">My hobbies involve doing zumba, playing piano, and cooking!</p>
 
-  </div>
+ </div>
 
 
 </body>
