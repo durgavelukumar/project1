@@ -4,7 +4,8 @@
 <http://p1.durgavelukumar.me>
 
 ## Description
-A web page holding links for other projects and describing student.
+This is a web page holding links for other projects. This is also
+a portfolio describing the student.
 
 ## Details for teaching team
 N/A
